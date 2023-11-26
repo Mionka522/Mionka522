@@ -30,6 +30,8 @@ Java Developer
 
 ✔ Умение работать с реляционными базами данных (MariaDB, MySQL и т.д)
 
+✔ Базовые навыки работы с Hibernate
+
 ✔ Базовые навыки работы со Spring Framework , создание CRUD, REST приложенией.
 
 
