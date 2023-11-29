@@ -6,7 +6,7 @@
   <img src = "https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500"/>
 </div>
 
-Java Developer
+Junior Java Developer
 --------------
 Николаева Александра Евгеньевна (25.09.2001)
 *   🌱 Я начинающий Java-разработчик
