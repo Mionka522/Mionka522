@@ -12,6 +12,7 @@ Junior Java Developer
 *   🌱 Я начинающий Java-разработчик
 *   🌍 г.Самара
 *   📧 alexandra.nikolaeva522@gmail.com
+*   📞 +79370765752
   
 
 ### Skills 
