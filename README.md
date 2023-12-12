@@ -35,7 +35,7 @@ Junior Java Developer
 
 ✔ Базовые навыки работы с Hibernate
 
-✔ Базовые навыки работы со Spring Framework , создание CRUD, REST приложенией
+✔ Базовые навыки работы со Spring Framework (Core, Boot , MVC, Spring Data JPA/Hibernate) , создание CRUD, REST приложенией
 
 ✔ Владею навыками работы с Git и умею эффективно использовать его для контроля версий и совместной разработки программного кода
 
