@@ -48,7 +48,7 @@ Junior Java Developer
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mionka522)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](mion_522?igshid=NzZlODBkYWE4Ng==)  
 
 
-[![codewars](https://www.codewars.com/users/Mion/badges/large)](https://www.codewars.com/users/Mion) 
+[![codewars](https://www.codewars.com/users/Alexandra_Nikolaeva/badges/large)](https://www.codewars.com/users/Alexandra_Nikolaeva) 
 
 
 
