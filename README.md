@@ -119,7 +119,5 @@ Junior Java Developer
 
 Доп.сертификаты :
 
-<div id="header" align="center">
-  <img src = "https://gb.ru/certificates/2658378" width="500"/>
-</div>
+https://gb.ru/certificates/2658378
 
