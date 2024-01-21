@@ -118,7 +118,6 @@ Junior Java Developer
 Есть диплом о прохождении профессиональной переподготовке , предоставляющий право на ведение профессиональной деятельности в сфере программирования (2023г)
 
 Доп.сертификаты (тестирования):
-https://gb.ru/certificates/2661595
-
-https://gb.ru/certificates/2658378
-
+«Java. Сложный уровень» https://gb.ru/certificates/2661595
+«Java. Средний уровень» https://gb.ru/certificates/2658378
+«Spring Framework. Начальный уровень» https://gb.ru/certificates/2663934
