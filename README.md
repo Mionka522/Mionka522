@@ -119,5 +119,7 @@ Junior Java Developer
 
 Доп.сертификаты (тестирования):
 «Java. Сложный уровень» https://gb.ru/certificates/2661595
+
 «Java. Средний уровень» https://gb.ru/certificates/2658378
+
 «Spring Framework. Начальный уровень» https://gb.ru/certificates/2663934
