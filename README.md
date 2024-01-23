@@ -11,7 +11,7 @@ Junior Java Developer
 Николаева Александра Евгеньевна (25.09.2001)
 *   🌱 Я Junior Java-разработчик
 *   🌍 г.Самара
-*   📧 alexandra.nikolaeva522@gmail.com
+*   📧 alexandra_nikolaeva_01@mail.ru
 *   📞 +79370765752
   
 
